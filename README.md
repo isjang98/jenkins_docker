@@ -1,6 +1,16 @@
 # jenkins_docker
 Jenkins Using Docker For Android 
 
+## Install Docker for Mac
+https://docs.docker.com/docker-for-mac/install/
+
+## Install Docker for Ubuntu
+https://docs.docker.com/engine/installation/linux/ubuntu/
+
+## Install Docker for CentOS
+https://docs.docker.com/engine/installation/linux/centos/
+
+
 ## 해당 디렉토리에서 빌드
 
 	$ docker build -t ubuntu-jenkins .
